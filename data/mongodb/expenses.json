@@ -1,0 +1,382 @@
+[
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Spotify Music Plan",
+    "amount": 119,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly music streaming",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea82364e"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Organic Groceries",
+    "amount": 1850,
+    "category": "Food",
+    "date": "2026-10-05",
+    "description": "Supermarket supplies",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea82364d"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Fuel Refill Station",
+    "amount": 1200,
+    "category": "Fuel",
+    "date": "2026-11-04",
+    "description": "Car fuel tank fill",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea82364c"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Electricity & Utility Bill",
+    "amount": 2850,
+    "category": "Bills",
+    "date": "2026-11-04",
+    "description": "Home electricity payment",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea82364b"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly OTT entertainment plan",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea82364a"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Uber Commute",
+    "amount": 320,
+    "category": "Travel",
+    "date": "2026-11-04",
+    "description": "Cab fare to office",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea823649"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "title": "Whole Foods Market",
+    "amount": 1450,
+    "category": "Food",
+    "date": "2026-11-04",
+    "description": "Weekly groceries & vegetables",
+    "createdAt": "2026-11-04T04:14:29.280Z",
+    "_id": "6aeab12518f8f2cfea823648"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Spotify Music Plan",
+    "amount": 119,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly music streaming",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea82363b"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Organic Groceries",
+    "amount": 1850,
+    "category": "Food",
+    "date": "2026-10-05",
+    "description": "Supermarket supplies",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea82363a"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Fuel Refill Station",
+    "amount": 1200,
+    "category": "Fuel",
+    "date": "2026-11-04",
+    "description": "Car fuel tank fill",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea823639"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Electricity & Utility Bill",
+    "amount": 2850,
+    "category": "Bills",
+    "date": "2026-11-04",
+    "description": "Home electricity payment",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea823638"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly OTT entertainment plan",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea823637"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Uber Commute",
+    "amount": 320,
+    "category": "Travel",
+    "date": "2026-11-04",
+    "description": "Cab fare to office",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea823636"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "title": "Whole Foods Market",
+    "amount": 1450,
+    "category": "Food",
+    "date": "2026-11-04",
+    "description": "Weekly groceries & vegetables",
+    "createdAt": "2026-11-04T04:08:46.564Z",
+    "_id": "6aeaafce18f8f2cfea823635"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Spotify Music Plan",
+    "amount": 119,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly music streaming",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823628"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Organic Groceries",
+    "amount": 1850,
+    "category": "Food",
+    "date": "2026-10-05",
+    "description": "Supermarket supplies",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823627"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Fuel Refill Station",
+    "amount": 1200,
+    "category": "Fuel",
+    "date": "2026-11-04",
+    "description": "Car fuel tank fill",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823626"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Electricity & Utility Bill",
+    "amount": 2850,
+    "category": "Bills",
+    "date": "2026-11-04",
+    "description": "Home electricity payment",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823625"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly OTT entertainment plan",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823624"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Uber Commute",
+    "amount": 320,
+    "category": "Travel",
+    "date": "2026-11-04",
+    "description": "Cab fare to office",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823623"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "title": "Whole Foods Market",
+    "amount": 1450,
+    "category": "Food",
+    "date": "2026-11-04",
+    "description": "Weekly groceries & vegetables",
+    "createdAt": "2026-11-04T04:04:56.319Z",
+    "_id": "6aeaaee818f8f2cfea823622"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "BreakFast",
+    "amount": 200,
+    "category": "Food",
+    "date": "2026-11-04",
+    "description": "",
+    "createdAt": "2026-11-04T04:01:15.436Z",
+    "_id": "6aeaae0b18f8f2cfea823620"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Scanned Purchase",
+    "amount": 250,
+    "category": "Shopping",
+    "date": "2026-11-04",
+    "description": "Receipt photo captured - verify details and click Save",
+    "createdAt": "2026-11-04T04:00:55.052Z",
+    "_id": "6aeaadf718f8f2cfea82361f"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Spotify Music Plan",
+    "amount": 119,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly music streaming",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea823613"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Organic Groceries",
+    "amount": 1850,
+    "category": "Food",
+    "date": "2026-10-05",
+    "description": "Supermarket supplies",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea823612"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Fuel Refill Station",
+    "amount": 1200,
+    "category": "Fuel",
+    "date": "2026-11-04",
+    "description": "Car fuel tank fill",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea823611"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Electricity & Utility Bill",
+    "amount": 2850,
+    "category": "Bills",
+    "date": "2026-11-04",
+    "description": "Home electricity payment",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea823610"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-11-04",
+    "description": "Monthly OTT entertainment plan",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea82360f"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Uber Commute",
+    "amount": 320,
+    "category": "Travel",
+    "date": "2026-11-04",
+    "description": "Cab fare to office",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea82360e"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "title": "Whole Foods Market",
+    "amount": 1450,
+    "category": "Food",
+    "date": "2026-11-04",
+    "description": "Weekly groceries & vegetables",
+    "createdAt": "2026-11-04T04:00:34.374Z",
+    "_id": "6aeaade218f8f2cfea82360d"
+  },
+  {
+    "userId": "guest",
+    "title": "Test Coffee",
+    "amount": 120,
+    "category": "Food",
+    "date": "2026-11-03",
+    "description": "MongoDB Test",
+    "createdAt": "2026-11-03T16:36:34.994Z",
+    "_id": "oid_1793723794994_i57y05b"
+  },
+  {
+    "userId": "guest",
+    "title": "Organic Groceries",
+    "amount": 1850,
+    "category": "Food",
+    "date": "2026-10-04",
+    "description": "Supermarket supplies",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784536_tszluaw"
+  },
+  {
+    "userId": "guest",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-10-04",
+    "description": "Previous month OTT charge",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784536_pbhnbim"
+  },
+  {
+    "userId": "guest",
+    "title": "Fuel Refill Station",
+    "amount": 1200,
+    "category": "Fuel",
+    "date": "2026-11-03",
+    "description": "Car fuel tank fill",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784536_h7is18s"
+  },
+  {
+    "userId": "guest",
+    "title": "Electricity & Utility Bill",
+    "amount": 2850,
+    "category": "Bills",
+    "date": "2026-11-03",
+    "description": "Home electricity payment",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784536_357hlnq"
+  },
+  {
+    "userId": "guest",
+    "title": "Netflix Subscription",
+    "amount": 499,
+    "category": "Subscriptions",
+    "date": "2026-11-03",
+    "description": "Monthly OTT entertainment plan",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784535_50ff8sl"
+  },
+  {
+    "userId": "guest",
+    "title": "Uber Commute",
+    "amount": 320,
+    "category": "Travel",
+    "date": "2026-11-03",
+    "description": "Cab fare to office",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784535_nu3i4p8"
+  },
+  {
+    "userId": "guest",
+    "title": "Whole Foods Market",
+    "amount": 1450,
+    "category": "Food",
+    "date": "2026-11-03",
+    "description": "Weekly groceries & vegetables",
+    "createdAt": "2026-11-03T16:36:24.535Z",
+    "_id": "oid_1793723784535_0f15h1p"
+  }
+]

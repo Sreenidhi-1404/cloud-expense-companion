@@ -1,0 +1,102 @@
+[
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "source": "Freelance Full-Stack Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-11-04",
+    "description": "MERN stack milestone fee",
+    "createdAt": "2026-11-04T04:14:29.315Z",
+    "_id": "6aeab12518f8f2cfea823659"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "source": "Monthly Primary Salary",
+    "amount": 65000,
+    "category": "Salary",
+    "date": "2026-11-04",
+    "description": "Direct salary bank credit",
+    "createdAt": "2026-11-04T04:14:29.314Z",
+    "_id": "6aeab12518f8f2cfea823658"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "source": "Freelance Full-Stack Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-11-04",
+    "description": "MERN stack milestone fee",
+    "createdAt": "2026-11-04T04:08:46.592Z",
+    "_id": "6aeaafce18f8f2cfea823646"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "source": "Monthly Primary Salary",
+    "amount": 65000,
+    "category": "Salary",
+    "date": "2026-11-04",
+    "description": "Direct salary bank credit",
+    "createdAt": "2026-11-04T04:08:46.591Z",
+    "_id": "6aeaafce18f8f2cfea823645"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "source": "Freelance Full-Stack Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-11-04",
+    "description": "MERN stack milestone fee",
+    "createdAt": "2026-11-04T04:04:56.345Z",
+    "_id": "6aeaaee818f8f2cfea823633"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "source": "Monthly Primary Salary",
+    "amount": 65000,
+    "category": "Salary",
+    "date": "2026-11-04",
+    "description": "Direct salary bank credit",
+    "createdAt": "2026-11-04T04:04:56.344Z",
+    "_id": "6aeaaee818f8f2cfea823632"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "source": "Freelance Full-Stack Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-11-04",
+    "description": "MERN stack milestone fee",
+    "createdAt": "2026-11-04T04:00:34.412Z",
+    "_id": "6aeaade218f8f2cfea82361e"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "source": "Monthly Primary Salary",
+    "amount": 65000,
+    "category": "Salary",
+    "date": "2026-11-04",
+    "description": "Direct salary bank credit",
+    "createdAt": "2026-11-04T04:00:34.410Z",
+    "_id": "6aeaade218f8f2cfea82361d"
+  },
+  {
+    "userId": "guest",
+    "source": "Freelance Full-Stack Project",
+    "amount": 15000,
+    "category": "Freelance",
+    "date": "2026-11-04",
+    "description": "MERN stack milestone fee",
+    "createdAt": "2026-11-04T04:00:05.808Z",
+    "_id": "6aeaadc518f8f2cfea82360b"
+  },
+  {
+    "userId": "guest",
+    "source": "Monthly Primary Salary",
+    "amount": 65000,
+    "category": "Salary",
+    "date": "2026-11-04",
+    "description": "Direct salary bank credit",
+    "createdAt": "2026-11-04T04:00:05.808Z",
+    "_id": "6aeaadc518f8f2cfea82360a"
+  }
+]

@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Tailwind CSS v4: make dark: utilities follow the .dark class set by App.tsx */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Smooth theme change without changing the app's existing component styling */
+html.theme-transitioning,
+html.theme-transitioning * {
+  transition-property: background-color, border-color, color, fill, stroke, box-shadow;
+  transition-duration: 250ms;
+  transition-timing-function: ease;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}

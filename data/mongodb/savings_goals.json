@@ -1,0 +1,112 @@
+[
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "name": "Emergency Buffer Fund",
+    "targetAmount": 50000,
+    "currentAmount": 28000,
+    "deadline": "2026-10-15",
+    "description": "3 months of essential buffer savings",
+    "createdAt": "2026-11-04T04:14:29.311Z",
+    "updatedAt": "2026-11-04T04:14:29.311Z",
+    "_id": "6aeab12518f8f2cfea823657"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "name": "Work Laptop & Equipment",
+    "targetAmount": 80000,
+    "currentAmount": 35000,
+    "deadline": "2026-12-31",
+    "description": "High-performance laptop for coding and full-stack projects",
+    "createdAt": "2026-11-04T04:14:29.310Z",
+    "updatedAt": "2026-11-04T04:14:29.310Z",
+    "_id": "6aeab12518f8f2cfea823656"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "name": "Emergency Buffer Fund",
+    "targetAmount": 50000,
+    "currentAmount": 28000,
+    "deadline": "2026-10-15",
+    "description": "3 months of essential buffer savings",
+    "createdAt": "2026-11-04T04:08:46.588Z",
+    "updatedAt": "2026-11-04T04:08:46.588Z",
+    "_id": "6aeaafce18f8f2cfea823644"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "name": "Work Laptop & Equipment",
+    "targetAmount": 80000,
+    "currentAmount": 35000,
+    "deadline": "2026-12-31",
+    "description": "High-performance laptop for coding and full-stack projects",
+    "createdAt": "2026-11-04T04:08:46.587Z",
+    "updatedAt": "2026-11-04T04:08:46.587Z",
+    "_id": "6aeaafce18f8f2cfea823643"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "name": "Emergency Buffer Fund",
+    "targetAmount": 50000,
+    "currentAmount": 28000,
+    "deadline": "2026-10-15",
+    "description": "3 months of essential buffer savings",
+    "createdAt": "2026-11-04T04:04:56.342Z",
+    "updatedAt": "2026-11-04T04:04:56.342Z",
+    "_id": "6aeaaee818f8f2cfea823631"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "name": "Work Laptop & Equipment",
+    "targetAmount": 80000,
+    "currentAmount": 35000,
+    "deadline": "2026-12-31",
+    "description": "High-performance laptop for coding and full-stack projects",
+    "createdAt": "2026-11-04T04:04:56.341Z",
+    "updatedAt": "2026-11-04T04:04:56.341Z",
+    "_id": "6aeaaee818f8f2cfea823630"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "name": "Emergency Buffer Fund",
+    "targetAmount": 50000,
+    "currentAmount": 28000,
+    "deadline": "2026-10-15",
+    "description": "3 months of essential buffer savings",
+    "createdAt": "2026-11-04T04:00:34.407Z",
+    "updatedAt": "2026-11-04T04:00:34.407Z",
+    "_id": "6aeaade218f8f2cfea82361c"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "name": "Work Laptop & Equipment",
+    "targetAmount": 80000,
+    "currentAmount": 35000,
+    "deadline": "2026-12-31",
+    "description": "High-performance laptop for coding and full-stack projects",
+    "createdAt": "2026-11-04T04:00:34.406Z",
+    "updatedAt": "2026-11-04T04:00:34.406Z",
+    "_id": "6aeaade218f8f2cfea82361b"
+  },
+  {
+    "userId": "guest",
+    "name": "Emergency Buffer Fund",
+    "targetAmount": 50000,
+    "currentAmount": 28000,
+    "deadline": "2026-10-15",
+    "description": "3 months of essential buffer savings",
+    "createdAt": "2026-11-04T04:00:05.806Z",
+    "updatedAt": "2026-11-04T04:00:05.806Z",
+    "_id": "6aeaadc518f8f2cfea823609"
+  },
+  {
+    "userId": "guest",
+    "name": "Work Laptop & Equipment",
+    "targetAmount": 80000,
+    "currentAmount": 35000,
+    "deadline": "2026-12-31",
+    "description": "High-performance laptop for coding and full-stack projects",
+    "createdAt": "2026-11-04T04:00:05.806Z",
+    "updatedAt": "2026-11-04T04:00:05.806Z",
+    "_id": "6aeaadc518f8f2cfea823608"
+  }
+]

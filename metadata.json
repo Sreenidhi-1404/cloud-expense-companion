@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Expense Companion",
+  "description": "Full-stack MERN personal expense tracker with MongoDB, Financial Health Score, AI Receipt Scanner, and Savings Goals.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "email": "giriprasath.24cs@kct.ac.in",
+    "displayName": "giriprasath.24cs",
+    "role": "user",
+    "createdAt": "2026-11-04T04:15:40.679Z",
+    "_id": "6aeab16cac64175f3c19fd8b"
+  },
+  {
+    "email": "kabilanrm@gmail.com",
+    "displayName": "kabilanrm",
+    "role": "user",
+    "createdAt": "2026-11-04T04:14:29.277Z",
+    "_id": "6aeab12518f8f2cfea823647"
+  },
+  {
+    "email": "kanishsp123@gmail.com",
+    "displayName": "kanishsp123",
+    "role": "user",
+    "createdAt": "2026-11-04T04:08:46.561Z",
+    "_id": "6aeaafce18f8f2cfea823634"
+  },
+  {
+    "email": "admin@expensecompanion.internal",
+    "displayName": "admin",
+    "role": "user",
+    "createdAt": "2026-11-04T04:04:56.316Z",
+    "_id": "6aeaaee818f8f2cfea823621"
+  },
+  {
+    "email": "shudharshinikaruppusamy@gmail.com",
+    "displayName": "shudharshinikaruppusamy",
+    "role": "user",
+    "createdAt": "2026-11-04T04:00:34.373Z",
+    "_id": "6aeaade218f8f2cfea82360c"
+  },
+  {
+    "email": "evaluator@kct.ac.in",
+    "displayName": "evaluator",
+    "role": "user",
+    "createdAt": "2026-11-03T18:02:21.148Z",
+    "_id": "6aea21ad2d5527b74ea5b067"
+  },
+  {
+    "email": "student.lead@college.edu",
+    "displayName": "student.lead",
+    "role": "user",
+    "createdAt": "2026-11-03T18:02:10.984Z",
+    "_id": "6aea21a22d5527b74ea5b054"
+  },
+  {
+    "email": "testuser@gmail.com",
+    "displayName": "testuser",
+    "role": "user",
+    "createdAt": "2026-11-03T17:47:19.457Z",
+    "_id": "oid_1793728039457_8khd1zn",
+    "password": "newsecretpassword123",
+    "updatedAt": "2026-11-03T18:06:11.178Z"
+  }
+]

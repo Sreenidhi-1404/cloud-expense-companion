@@ -1,0 +1,212 @@
+[
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Subscriptions",
+    "monthlyLimit": 1500,
+    "_id": "6aeab12518f8f2cfea823655"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Fuel",
+    "monthlyLimit": 3500,
+    "_id": "6aeab12518f8f2cfea823654"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Entertainment",
+    "monthlyLimit": 2000,
+    "_id": "6aeab12518f8f2cfea823653"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Bills",
+    "monthlyLimit": 6000,
+    "_id": "6aeab12518f8f2cfea823652"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Shopping",
+    "monthlyLimit": 4000,
+    "_id": "6aeab12518f8f2cfea823651"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Travel",
+    "monthlyLimit": 3000,
+    "_id": "6aeab12518f8f2cfea823650"
+  },
+  {
+    "userId": "6aeab12518f8f2cfea823647",
+    "category": "Food",
+    "monthlyLimit": 5000,
+    "_id": "6aeab12518f8f2cfea82364f"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Subscriptions",
+    "monthlyLimit": 1500,
+    "_id": "6aeaafce18f8f2cfea823642"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Fuel",
+    "monthlyLimit": 3500,
+    "_id": "6aeaafce18f8f2cfea823641"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Entertainment",
+    "monthlyLimit": 2000,
+    "_id": "6aeaafce18f8f2cfea823640"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Bills",
+    "monthlyLimit": 6000,
+    "_id": "6aeaafce18f8f2cfea82363f"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Shopping",
+    "monthlyLimit": 4000,
+    "_id": "6aeaafce18f8f2cfea82363e"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Travel",
+    "monthlyLimit": 3000,
+    "_id": "6aeaafce18f8f2cfea82363d"
+  },
+  {
+    "userId": "6aeaafce18f8f2cfea823634",
+    "category": "Food",
+    "monthlyLimit": 5000,
+    "_id": "6aeaafce18f8f2cfea82363c"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Subscriptions",
+    "monthlyLimit": 1500,
+    "_id": "6aeaaee818f8f2cfea82362f"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Fuel",
+    "monthlyLimit": 3500,
+    "_id": "6aeaaee818f8f2cfea82362e"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Entertainment",
+    "monthlyLimit": 2000,
+    "_id": "6aeaaee818f8f2cfea82362d"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Bills",
+    "monthlyLimit": 6000,
+    "_id": "6aeaaee818f8f2cfea82362c"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Shopping",
+    "monthlyLimit": 4000,
+    "_id": "6aeaaee818f8f2cfea82362b"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Travel",
+    "monthlyLimit": 3000,
+    "_id": "6aeaaee818f8f2cfea82362a"
+  },
+  {
+    "userId": "6aeaaee818f8f2cfea823621",
+    "category": "Food",
+    "monthlyLimit": 5000,
+    "_id": "6aeaaee818f8f2cfea823629"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Subscriptions",
+    "monthlyLimit": 1500,
+    "_id": "6aeaade218f8f2cfea82361a"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Fuel",
+    "monthlyLimit": 3500,
+    "_id": "6aeaade218f8f2cfea823619"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Entertainment",
+    "monthlyLimit": 2000,
+    "_id": "6aeaade218f8f2cfea823618"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Bills",
+    "monthlyLimit": 6000,
+    "_id": "6aeaade218f8f2cfea823617"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Shopping",
+    "monthlyLimit": 4000,
+    "_id": "6aeaade218f8f2cfea823616"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Travel",
+    "monthlyLimit": 3000,
+    "_id": "6aeaade218f8f2cfea823615"
+  },
+  {
+    "userId": "6aeaade218f8f2cfea82360c",
+    "category": "Food",
+    "monthlyLimit": 5000,
+    "_id": "6aeaade218f8f2cfea823614"
+  },
+  {
+    "userId": "guest",
+    "category": "Subscriptions",
+    "monthlyLimit": 1500,
+    "_id": "6aeaadc518f8f2cfea823607"
+  },
+  {
+    "userId": "guest",
+    "category": "Fuel",
+    "monthlyLimit": 3500,
+    "_id": "6aeaadc518f8f2cfea823606"
+  },
+  {
+    "userId": "guest",
+    "category": "Entertainment",
+    "monthlyLimit": 2000,
+    "_id": "6aeaadc518f8f2cfea823605"
+  },
+  {
+    "userId": "guest",
+    "category": "Bills",
+    "monthlyLimit": 6000,
+    "_id": "6aeaadc518f8f2cfea823604"
+  },
+  {
+    "userId": "guest",
+    "category": "Shopping",
+    "monthlyLimit": 4000,
+    "_id": "6aeaadc518f8f2cfea823603"
+  },
+  {
+    "userId": "guest",
+    "category": "Travel",
+    "monthlyLimit": 3000,
+    "_id": "6aeaadc518f8f2cfea823602"
+  },
+  {
+    "userId": "guest",
+    "category": "Food",
+    "monthlyLimit": 5000,
+    "_id": "6aeaadc518f8f2cfea823601"
+  }
+]

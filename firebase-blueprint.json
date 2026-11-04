@@ -1,0 +1,59 @@
+{
+  "entities": {
+    "Expense": {
+      "title": "Expense Record",
+      "description": "User logged expense or scanned transaction",
+      "type": "object",
+      "properties": {
+        "title": { "type": "string", "maxLength": 128 },
+        "amount": { "type": "number" },
+        "category": { "type": "string" },
+        "date": { "type": "string" },
+        "description": { "type": "string", "maxLength": 500 },
+        "userId": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["title", "amount", "category", "date"]
+    },
+    "CategoryBudget": {
+      "title": "Category Budget Limit",
+      "description": "Monthly budget limit set per expense category",
+      "type": "object",
+      "properties": {
+        "category": { "type": "string" },
+        "monthlyLimit": { "type": "number" }
+      },
+      "required": ["category", "monthlyLimit"]
+    },
+    "SavingsGoal": {
+      "title": "Savings Goal",
+      "description": "Personal savings goal with target and deadline",
+      "type": "object",
+      "properties": {
+        "name": { "type": "string", "maxLength": 100 },
+        "targetAmount": { "type": "number" },
+        "currentAmount": { "type": "number" },
+        "deadline": { "type": "string" },
+        "description": { "type": "string", "maxLength": 300 },
+        "userId": { "type": "string" },
+        "createdAt": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["name", "targetAmount", "currentAmount", "deadline"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}/expenses/{expenseId}": {
+      "schema": { "$ref": "#/entities/Expense" },
+      "description": "User specific expenses"
+    },
+    "/users/{userId}/budgets/{categoryId}": {
+      "schema": { "$ref": "#/entities/CategoryBudget" },
+      "description": "User specific monthly category budgets"
+    },
+    "/users/{userId}/savingsGoals/{goalId}": {
+      "schema": { "$ref": "#/entities/SavingsGoal" },
+      "description": "User specific savings goals"
+    }
+  }
+}
