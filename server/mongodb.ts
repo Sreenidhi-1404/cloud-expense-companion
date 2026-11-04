@@ -114,11 +114,7 @@ export async function initMongoDB(): Promise<void> {
       // Indexes support per-user lookups and avoid duplicate accounts/budgets.
       await Promise.all([
       // Existing email_1 index is already present in Atlas.
-      nextDb.collection('users').createIndex(
-        { email: 1 },
-        { unique: true, name: 'email_1' }
-      ),
-
+     
       nextDb.collection('expenses').createIndex({
         userId: 1,
         date: -1,
