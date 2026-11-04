@@ -11,20 +11,43 @@ import { initMongoDB, getMongoCollection, getMongoStatus, connectToAtlas, seedUs
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 const app = express();
 const server = http.createServer(app);
+const allowedOrigins = [
+  'https://expensecompanion.netlify.app',
+  'http://localhost:5173',
+];
+
+app.use((req, res, next) => {
+  const origin = req.headers.origin;
+
+  if (origin && allowedOrigins.includes(origin)) {
+    res.setHeader('Access-Control-Allow-Origin', origin);
+    res.setHeader('Vary', 'Origin');
+    res.setHeader(
+      'Access-Control-Allow-Headers',
+      'Content-Type, Authorization'
+    );
+    res.setHeader(
+      'Access-Control-Allow-Methods',
+      'GET, POST, PUT, PATCH, DELETE, OPTIONS'
+    );
+  }
+
+  if (req.method === 'OPTIONS') {
+    return res.sendStatus(204);
+  }
+
+  next();
+});
 
 app.use(express.json({ limit: '10mb' }));
 
 const JWT_SECRET: string = process.env.JWT_SECRET ?? "";
 
 if (JWT_SECRET.length < 32) {
-  throw new Error("JWT_SECRET must be set and at least 32 characters long.");
-}
-if (!JWT_SECRET || JWT_SECRET.length < 32) {
-  throw new Error('JWT_SECRET must be set to a random value of at least 32 characters in .env');
+  throw new Error('JWT_SECRET must be set and at least 32 characters long.');
 }
 
 interface TokenPayload { uid: string; email: string; role: string; }
@@ -1001,26 +1024,23 @@ app.post('/api/auth/login', async (req, res) => {
 app.post('/api/auth/reset-password', (_req, res) => res.status(501).json({ success: false, error: 'Password reset is unavailable until email ownership verification is configured.' }));
 
 // Vite Middleware or Production Static Serve
+// Render hosts the backend API only.
+// The React frontend is hosted separately on Netlify.
+
+app.use((req, res) => {
+  res.status(404).json({
+    success: false,
+    error: 'API route not found',
+  });
+});
+
 async function start() {
   await initMongoDB();
 
-  if (process.env.NODE_ENV !== 'production') {
-    const vite = await createViteServer({
-      server: { middlewareMode: true },
-      appType: 'spa',
-    });
-    app.use(vite.middlewares);
-  } else {
-    const distPath = path.join(__dirname, 'dist');
-    app.use(express.static(distPath));
-    app.get('*', (req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
-    });
-  }
-
   server.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server listening on http://localhost:${PORT}`);
+    console.log(`Server listening on port ${PORT}`);
   });
 }
+
 
 start();
